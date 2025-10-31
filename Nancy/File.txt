@@ -1,0 +1,8 @@
+Data Analytics means collecting, cleaning, analyzing, and visualizing data to discover useful insights that help in making better business decisions.
+
+Example:
+Suppose you have a company’s sales data.
+You can find out:
+Which product sells the most?
+In which month sales dropped?
+Which region gives the highest profit?
