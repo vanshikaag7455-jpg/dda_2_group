@@ -71,4 +71,3 @@ Support better decision-making
 
 
 
-Would you like me to explain data transformation in Power BI or Excel (with examples)?
