@@ -1,0 +1,16 @@
+# DATA PREPROCESSING
+Data Preprocessing is the first and one of the most important steps in data analytics or machine learning. It’s all about cleaning and preparing raw data so that it becomes accurate, complete, and ready for analysis.
+
+In simple terms, when data is collected from different sources, it often contains errors, missing values, duplicates, or inconsistencies. Preprocessing helps fix all these problems.
+
+The main steps include:
+
+Data Cleaning: Removing errors, duplicates, and filling in missing values.
+
+Data Transformation: Converting data into a suitable format or scale for analysis (for example, normalizing numbers or encoding text).
+
+Data Integration: Combining data from multiple sources into one consistent dataset.
+
+Data Reduction: Simplifying the dataset by removing unnecessary or less important information.
+
+In short, data preprocessing ensures that the data is reliable, consistent, and meaningful—which helps analysts and models make better decisions and predictions.
