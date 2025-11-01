@@ -1,8 +1,74 @@
-Data Analytics means collecting, cleaning, analyzing, and visualizing data to discover useful insights that help in making better business decisions.
 
-Example:
-Suppose you have a company’s sales data.
-You can find out:
-Which product sells the most?
-In which month sales dropped?
-Which region gives the highest profit?
+Data Transformation means converting raw data into a more useful or understandable format for analysis, reporting, or machine learning.
+
+🔹 Definition
+Data transformation is the process of cleaning, structuring, and converting data from one format or structure into another.
+It helps make data consistent, accurate, and ready for analysis.
+
+🔹 Example
+Raw data:
+NameAgeCityDate of Birthnitu21delhi2004/05/06raj22mumbai2003/06/07
+After transformation:
+NameAgeCityDOB (Formatted)Nitu21Delhi06-May-2004Raj22Mumbai07-Jun-2003
+✔ Capitalized names
+✔ Standardized city names
+✔ Formatted date
+
+🔹 Common Data Transformation Steps
+
+
+Data Cleaning – removing duplicates, fixing errors
+
+
+Data Formatting – changing date, time, or number formats
+
+
+Data Aggregation – summarizing data (e.g., total sales per month)
+
+
+Data Normalization – scaling data values into a consistent range
+
+
+Data Joining/Merging – combining multiple tables
+
+
+Data Encoding – converting text to numbers (for ML models)
+
+
+
+🔹 Tools Used
+
+
+Excel / Power Query
+
+
+Power BI (Transform Data window)
+
+
+Python (Pandas library)
+
+
+SQL (using functions like CAST, CONCAT, etc.)
+
+
+ETL tools (Talend, Informatica, SSIS)
+
+
+
+🔹 Purpose
+
+
+Improve data quality
+
+
+Make data compatible with analysis tools
+
+
+Ensure consistency across datasets
+
+
+Support better decision-making
+
+
+
+Would you like me to explain data transformation in Power BI or Excel (with examples)?
