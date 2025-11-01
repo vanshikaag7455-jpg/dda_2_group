@@ -1,0 +1,17 @@
+# DATA ANALYTICS
+Data Analytics is the process of examining raw data to uncover meaningful insights, patterns, and trends that support decision-making.
+It involves techniques such as data cleaning, transformation, visualization, and statistical analysis to convert data into actionable information.
+
+## Benefits of Data Analytics:
+
+Improved Decision-Making: Helps organizations make data-driven and evidence-based decisions.
+
+Enhanced Efficiency: Identifies bottlenecks and optimizes operations and processes.
+
+Cost Reduction: Detects inefficiencies and reduces unnecessary expenses.
+
+Customer Insights: Analyzes customer behavior and preferences to improve satisfaction and retention.
+
+Risk Management: Predicts potential risks and frauds using historical data patterns.
+
+Innovation: Reveals new business opportunities and market trends.

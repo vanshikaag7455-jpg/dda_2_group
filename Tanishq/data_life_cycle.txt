@@ -1,0 +1,14 @@
+# data life cycle
+data analysis life cycle
+1) problem statement /business problems
+2)data collection
+3) data pre-processing 
+-data cleaning
+-data transformation
+4)eda EXPLORATORY DATA ANALYSIS
+5) INSIGHTS
+6)OUTCOMES
+7)RECOMENDATION
+8)SUMMARY
+9)DASHBOARD
+10) ppt
